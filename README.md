@@ -1,66 +1,60 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SignTech: Real-time Sign Language Recognition</title>
-</head>
-<body>
-    <h1>SignTech: Real-time Sign Language Recognition</h1>
+# SignTech: Real-time Sign Language Recognition
 
-    <h2>Overview</h2>
-    <p>
-        SignTech is an innovative project designed to bridge communication gaps between the deaf and hearing communities.
-        By leveraging advanced computer vision and machine learning techniques, SignTech translates sign language gestures
-        into text or speech in real-time, making interactions more inclusive and accessible.
-    </p>
-    <h2>Dataset:</h2>
-    <link>https://www.kaggle.com/datamunge/sign-language-mnist</link>
+## Overview
 
-    <h2>Features</h2>
-    <ul>
-        <li><strong>Real-time Recognition:</strong> Instantly translates sign language gestures into text or speech.</li>
-        <li><strong>High Accuracy:</strong> Utilizes deep learning algorithms for precise gesture recognition.</li>
-        <li><strong>User-Friendly Interface:</strong> Simple and intuitive design for ease of use.</li>
-        <li><strong>Multi-Language Support:</strong> Capable of recognizing multiple sign languages.</li>
-    </ul>
+SignTech is an innovative project designed to bridge communication gaps between the deaf and hearing communities. By leveraging advanced computer vision and machine learning techniques, SignTech translates sign language gestures into text or speech in real-time, making interactions more inclusive and accessible.
 
-    <h2>Technologies Used</h2>
-    <ul>
-        <li><strong>Programming Languages:</strong> Python, JavaScript</li>
-        <li><strong>Frameworks:</strong> TensorFlow, OpenCV, React</li>
-        <li><strong>Machine Learning:</strong> Convolutional Neural Networks (CNNs)</li>
-        <li><strong>Tools:</strong> Git, Docker, VS Code</li>
-    </ul>
+## Dataset
+https://www.kaggle.com/datamunge/sign-language-mnist
 
-    <h2>Installation</h2>
-    <ol>
-        <li><strong>Clone the Repository:</strong>
-            <pre><code>git clone https://github.com/yourusername/signtech.git
-cd signtech</code></pre>
-        </li>
-        <li><strong>Install Dependencies:</strong>
-            <pre><code>pip install -r requirements.txt</code></pre>
-        </li>
-        <li><strong>Run the Application:</strong>
-            <pre><code>python app.py</code></pre>
-        </li>
-    </ol>
+## Features
 
-    <h2>Usage</h2>
-    <ol>
-        <li><strong>Launch the Application:</strong>
-            <ul>
-                <li>Start the application by running <code>python app.py</code>.</li>
-                <li>Open your web browser and navigate to <code>http://localhost:5000</code>.</li>
-            </ul>
-        </li>
-        <li><strong>Using SignTech:</strong>
-            <ul>
-                <li>Use your camera to capture sign language gestures.</li>
-                <li>The system will translate the gestures into text or speech in real-time.</li>
-            </ul>
-        </li>
-    </ol>
+- **Real-time Recognition:** Instantly translates sign language gestures into text or speech.
+- **High Accuracy:** Utilizes deep learning algorithms for precise gesture recognition.
+- **User-Friendly Interface:** Simple and intuitive design for ease of use.
+- **Multi-Language Support:** Capable of recognizing multiple sign languages.
+
+## Technologies Used
+
+- **Programming Languages:** Python, JavaScript
+- **Frameworks:** TensorFlow, OpenCV, React
+- **Machine Learning:** Convolutional Neural Networks (CNNs)
+- **Tools:** Git, Docker, VS Code
+
+## Installation
+
+1. **Clone the Repository:**
+
+    ```bash
+    git clone https://github.com/yourusername/signtech.git
+    cd signtech
+    ```
+
+2. **Install Dependencies:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Run the Application:**
+
+    ```bash
+    python app.py
+    ```
+
+## Usage
+
+1. **Launch the Application:**
+   - Start the application by running `python app.py`.
+   - Open your web browser and navigate to `http://localhost:5000`.
+
+2. **Using SignTech:**
+   - Use your camera to capture sign language gestures.
+   - The system will translate the gestures into text or speech in real-time.
+
+SignTech aims to make communication more inclusive and accessible. Join us in our mission to bridge the communication gap and empower the deaf and hearing communities!
+
+        
 
 
+  
